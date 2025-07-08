@@ -10,4 +10,4 @@
 
 本站为您提供丰富的影视资源，涵盖各种类型的电影、纪录片、综艺等内容，支持多平台流畅播放。我们每天更新，确保您第一时间享受最新的影视资源，满足各种观影需求。无需注册，点击即播，致力于为您提供便捷流畅的观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/thuy20250708/thuy6 ）</span>
